@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shutterOb",
+				"shutterBonusObjects"
+			],
+			[
+				"de",
+				"debug"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Repos/ppss"
+	],
+	"file_history":
+	[
+		"/D/D Drive/ppss/index.html",
+		"/D/D Drive/ppss/css/style.css",
+		"/D/Repos/ppss/notifications2.html",
+		"/D/coregaming/Repos/SeanKelly.git/app/scripts/config.js",
+		"/D/coregaming/Repos/SeanKelly.git/gameClientDevelopmentPlan/gameClientDevelopmentPlan.txt",
+		"/D/coregaming/Repos/SeanKelly.git/app/scripts/CGApp/connection/SeanKellyOpenBetReelConnection.js",
+		"/D/coregaming/Repos/SeanKelly.git/app/scripts/CGApp/screens/mainScreen.js",
+		"/D/coregaming/Repos/SeanKelly.git/app/version.txt",
+		"/D/coregaming/Repos/SeanKelly.git/app/scripts/CGEngine/gameTypes/gameState.js",
+		"/D/coregaming/Repos/SeanKelly.git/app/scripts/CGEngine/gameTypes/slot/components/screen/slotScreen.js",
+		"/D/coregaming/Repos/SeanKelly.git/app/scripts/CGEngine/sound/playableSound.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"D:\\coregaming\\Repos\\SeanKelly.git\\app\\scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auctionOpenShutterTween",
+			"init",
+			"lastF",
+			"MBonusWheelState",
+			"numberOfReels",
+			"numberOfReels ",
+			"l_win_line",
+			"BONUS ACTIVATE",
+			"freeSpinsCountText",
+			".ENABLEcO",
+			"bannerUpdateTimer",
+			"stop",
+			"bannerUpdateTimer",
+			".enableC",
+			"bannerUpdate",
+			"bannerMSGIndex",
+			"gamePh",
+			"MSG_ANTICIPATION_TEXT",
+			"auctionCloseShutterTweenFinished",
+			"FsShutterBonusContainer",
+			"auctionopenSh",
+			"auctionSh",
+			"auctionShu",
+			"bonusFini",
+			"continueTO",
+			"continuueA",
+			"FsShutterBonusContainer",
+			"FSPopupsBGFill",
+			"leftShutterTween.start",
+			"leftShutterTweenFinished",
+			"leftShutterTween.start",
+			"leftShutterTweenFini",
+			"rightShutterTweenFini",
+			"rightShutterTween",
+			"auctionPanelTween",
+			"leftShutterTweenFinished",
+			"leftShutterTween",
+			"FSPopupsBGFill",
+			"displayAuc",
+			"  this.screenComponents.FsShutterBonusContainer",
+			"shutterB",
+			"shutter",
+			"addSpinsButton",
+			"closetheSymbolForShutterBonus",
+			"shutterBonusO",
+			"displayAuctionIntroPanel",
+			"openShutter",
+			"displayAuctionIntroPanel",
+			"pe\" : \"CGE.Sys",
+			"AuctionOfferValue1",
+			"auctionPanelTween",
+			"displayAuctionIn",
+			".start",
+			"fadeOutExpandingWildsTween",
+			"fadeOutExpandingWildsTweenData",
+			"showFSExtraInstructionScaleBackTweenData",
+			"expandingwildsC",
+			"expandingWildsContainer",
+			"arrOfExpandwildReels",
+			"fadeOutExpandingWildsTween",
+			"expandingWil",
+			".start",
+			"expandingWilds",
+			"stackedWil",
+			"addEx",
+			"stackedW",
+			"fadeOutExpandingWildsUpdate",
+			"fadeOutExpandingWildsTween",
+			"onReelBlurSpinStarted",
+			"REEL_BLUR_SPIN_STARTED",
+			"expanding",
+			"()\n",
+			".enableShu",
+			"disableAllShutters",
+			"continueAft",
+			"enableShutters",
+			"this.shutterBonusObjec",
+			"enableSh",
+			"shutterobj",
+			"boxesMiddle",
+			"autoplay",
+			"autop",
+			"bonusFinished",
+			"addFSBUt",
+			"freeSpinsCountText2",
+			"showFSExtraInstructionScaleBackTween",
+			"fsExtraInstructionBackwardScaleEnd",
+			"freeSpinsCountText2",
+			"freeSpinsCountText",
+			"bonusFinished",
+			"auctionOpenShutterTween",
+			"auctionOpenShutterTweenFinished",
+			"leftShutterValuesBackUpdate",
+			"leftShutterTweenBack",
+			"addFS",
+			"this.pickedShutterIndex",
+			"this.currentBonusTriggerObj",
+			"shutterBonusObjects",
+			"this.pickedShutterIndex",
+			"pickedShutterIndex",
+			"shutterPre",
+			"shutterOffer",
+			"glowIndex",
+			"shutterOffer",
+			"glowIndex",
+			"leftH",
+			"red",
+			"pane",
+			"openShu",
+			"populateSi",
+			"populate",
+			"setNo",
+			"set",
+			"showFirstOfferAfterAuctionShutterClose",
+			"firstOfferDe",
+			"showOffer",
+			"showFirstOfferAfterAuctionShutterClos",
+			"showFirstOfferAfterAuctionShutterCloseCallBack",
+			"firstOfferDelayTimer",
+			"gip",
+			"gameStat",
+			"onAuctionBetRe",
+			".enter",
+			"leftHandBlueTablePanel",
+			"offerPa",
+			"populateSidePanelValues",
+			"SetNoO",
+			"SlotScatterWin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pps-sublime.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"app\\scripts\\CGApp\\screens\\mainScreen.js"
+			],
+			[
+				"openbe",
+				"app\\scripts\\CGApp\\connection\\SeanKellyOpenBetReelConnection.js"
+			],
+			[
+				"misc",
+				"app\\scripts\\CGEngine\\utils\\misc.js"
+			],
+			[
+				"mai",
+				"app\\scripts\\CGApp\\screens\\mainScreen.js"
+			],
+			[
+				"slotsc",
+				"app\\scripts\\CGEngine\\gameTypes\\slot\\components\\screen\\slotScreen.js"
+			],
+			[
+				"gamesat",
+				"app\\scripts\\CGEngine\\gameTypes\\gameState.js"
+			],
+			[
+				"gamestate",
+				"app\\scripts\\CGApp\\gameTypes\\gameState.js"
+			],
+			[
+				"games",
+				"app\\scripts\\CGApp\\gameTypes\\gameState.js"
+			],
+			[
+				"config",
+				"app\\scripts\\config.js"
+			],
+			[
+				"slots",
+				"app\\scripts\\CGApp\\gameTypes\\slotState.js"
+			],
+			[
+				"fixed",
+				"app\\scripts\\CGApp\\reels\\fixedReelV2.js"
+			],
+			[
+				"playable",
+				"app\\scripts\\CGEngine\\sound\\playableSound.js"
+			],
+			[
+				"cofig",
+				"app\\scripts\\config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 420.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
