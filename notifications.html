@@ -1,0 +1,183 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PPSS</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>    
+    <header>     
+      <div class="container"> 
+        <div class="jumbotron" id="toplogo">
+          <img src="img/knowle-logo3.png" class="logo" />
+        </div> 
+      </div>     
+    </header>  
+    <div class="container"> 
+    <!-- Static navbar -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Project name</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Contact</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li class="dropdown-header">Nav header</li>
+                  <li><a href="#">Separated link</a></li>
+                  <li><a href="#">One more separated link</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li class="active"><a href="./">Default <span class="sr-only">(current)</span></a></li>
+              <li><a href="../navbar-static-top/">Static top</a></li>
+              <li><a href="../navbar-fixed-top/">Fixed top</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+    </div>
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="panel panel-default" id="noticeBoardPanel">
+              <div class="panel-heading">
+                <h3 class="panel-title">Send Notifications</h3>
+              </div>
+              <div class="panel-body">
+               <div class="container">
+                
+                <div class ="row">
+                  <div class="col-md-2">
+                    <p>Select the Class</p>
+                  </div>
+                  <div class="col-md-10">
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        Select
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                        <li><a href="#">Little Buddies</a></li>
+                        <li><a href="#">Pre-KG</a></li>
+                        <li><a href="#">LKG</a></li>
+                        <li><a href="#">UKG</a></li>
+                        <li><a href="#">STD 1</a></li>
+                        <li><a href="#">STD 2</a></li>
+                      </ul>
+                    </div>
+                  </div> 
+                </div>
+                <div class ="row">
+                  <div class="col-md-2">
+                    <p>Section</p>
+                  </div>
+                  <div class="col-md-10">
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        Select
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                        <li><a href="#">A</a></li>
+                        <li><a href="#">B</a></li>
+                        <li><a href="#">C</a></li>
+                        <li><a href="#">D</a></li>
+                        <li><a href="#">E</a></li>
+                        <li><a href="#">F</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class ="row">
+                  <div class="col-md-2">
+                    <p>Notification Type:</p>
+                  </div>
+                  <div class="col-md-10">
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        Select
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                        <li><a href="#">Home Work Notification</a></li>
+                        <li><a href="#">Event Notification</a></li>
+                        <li><a href="#">News Letter</a></li>
+                        <li><a href="#">Notify Sickness</a></li>
+                        <li><a href="#">Parent Invited</a></li>
+                        <li><a href="#">Payment Reminder</a></li>
+                      </ul>
+                    </div>
+                  </div>                 
+                </div>
+                <div class = "row">
+                  <form class="col-md-8">
+                  <div class="form-group" >
+                    <textarea id="msgBox" class="form-control" placeholder="Type the message"></textarea>
+                  </div>                
+                  <button type="submit" class="btn btn-default">Submit</button>
+                  <div class="pull-right">
+                    <div class="btn-group">
+                    <button type="button" class="btn btn-default"><i class="fa fa-pencil"></i> Text</button>
+                    <button type="button" class="btn btn-default"><i class="fa fa-file-image-o"></i> Image</button>
+                    <button type="button" class="btn btn-default"> <i class="fa fa-file-video-o"></i> Video</button>
+                  </div>
+                  </div>
+                </form>
+                </div>
+              </div>
+            </div>
+          </div>    
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container" id="midTop">
+        <div class="jumbotron">
+          <h3>Latest Event</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mollis nibh vel accumsan suscipit. Nam rutrum vulputate turpis id aliquet. </p>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div id="footerContent">
+            <p>SST Tech Copyright &copy; 2017, All Rights Reserved</p>
+          </div>
+        </div>        
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
